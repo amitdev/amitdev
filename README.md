@@ -2,8 +2,6 @@
 
 See some of my projects below. Also see my [blog](https://amitdev.github.io).
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amitdev)
-
 <!--
 **amitdev/amitdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
